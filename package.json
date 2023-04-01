@@ -1,0 +1,19 @@
+{
+  "name": "com.thermofusion.tftexturegraph",
+  "version": "0.0.1",
+  "displayName": "TF Texture Graph",
+  "description": "Graph tool to combine textures.",
+  "unity": "2021.3",
+  "unityRelease": "14f1",
+  "dependencies": {
+ },
+ "keywords": [
+    "texture",
+    "graph"
+  ],
+  "author": {
+    "name": "Daniel Schneider",
+    "email": "daniel.schneider@hotmail.se",
+    "url": "https://github.com/Thermofusion"
+  }
+}
